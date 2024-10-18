@@ -1,0 +1,34 @@
+1. List of Linux commands
+	pwd: checks the current directory
+	mkdir: creates a directory
+	cd: changes the current directory to another directory
+	ls: lists the files inside a directory
+	-l: lists one file per line
+	-t: sorts by modification time -- newest first
+	-r: reverse sorting order
+	-ltr: a shortcut for the three items above
+	cd ..: refers to one directory up
+	cat: prints the file to standard output
+
+2. List of github commands
+	git config: configures the Git settings
+	git clone: creates a local copy of a project that already exists remotely. Clone include all the project's files, history, and branches.
+	git status: shows the status of changes as untracked, modified, or staged.
+	git add: will become a part of the snapshot with git commit
+	git commit: saves the snapshot to the project history and completes the change-tracking process.
+	git push: updates the remote repository
+	
+3. Read the syllabus and answer the following questions:
+	i) List the rules for collaboration on homework assignments
+		We are encouraged to work on homework assignments in pairs (unless otherwise specified) but we also have the choice to work on them individually.
+		Choosing to work in a pair, both students will receive the same grade.
+	ii) List the rule for consulting external references for homework assignments
+		We must include the outside sources we use in a separate document when submitting and assignment along with the names of the student you colloborated with.
+		If you have not collaborated with any one, we must include the following statement, "I did not collaborate with anyone while working on this assignment".
+		If I have not consulted any external sources, the document should include the following, "I did not consult any sources other than the textbook while working on this assignment". 
+	iii) What is the penalty for submitting late assignments?
+		There will be a penalty of 10% per day for submitting late assignments.
+	iv) What is the penalty for missing classes? 
+		When absent, students remain responsible for findig out what class activities occurred during the abscence and making up missed work if the instructor permits it. 
+		If a student has missed a significant portion of coursework, the student should confer with the course instructor to explore options, including withdrawl or late withdrawl from the
+		course.
